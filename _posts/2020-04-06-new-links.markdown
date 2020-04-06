@@ -2,7 +2,7 @@
 layout: post
 tags:
 categories:
-date: 2020-04-06 13:13:13
+date: 2020-04-06 13:13:00
 image:
 description:
 title: New links
@@ -10,4 +10,4 @@ title: New links
 
 [Mega](https://sakrecoer.com)
 
-[asdasdasd](mega duper)
+[asdasdasd](https://google.com)
